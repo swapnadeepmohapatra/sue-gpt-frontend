@@ -112,4 +112,10 @@ label {
   margin-bottom: 0.5rem;
   display: flex;
   gap: 0.4rem;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+label input {
+  flex: 1;
 }
